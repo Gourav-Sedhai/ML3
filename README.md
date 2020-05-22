@@ -1,4 +1,4 @@
 # ML3
 Probability
 -----------
-Conditional Probability, 
+Conditional Probability and Bayes' Theorem
